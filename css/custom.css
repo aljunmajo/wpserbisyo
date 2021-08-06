@@ -394,7 +394,6 @@ button:focus:not(:focus-visible) {
   height: 32px;
   fill: #8a8989;
 }
-.footer-nav ul {}
 .footer-nav ul li {
   background-color: unset !important;
 }
