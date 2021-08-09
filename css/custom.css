@@ -445,10 +445,8 @@ button:focus:not(:focus-visible) {
   filter: "alpha(opacity=100)";
   -ms-filter: "alpha(opacity=100)";
 }
-
-
 /* 
- * TODOS: Delete in Production 
+ * TODOS: DELETE THESE @media when deploy in Production Server 
  * @media from small to xxl 
  */
 /* Small devices (landscape phones, 576px and up) */
